@@ -1,0 +1,6 @@
+{
+  "maxFileSize": 26214400,
+  "maxDuration": 1800,
+  "supportedExtensions": [".mp3", ".wav", ".m4a", ".flac", ".ogg"],
+  "assemblyAIKey": ""
+}
